@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hbhardwaj-3112 aka Harsh Bhardwaj
+- 👀 I’m interested in coding, anything in coding
+- 🌱 I’m currently learning Python and plan on uploading one python project everyday for a 100 days
+- 💞️ I’m looking to collaborate if package is good
+- 📫 Please reach out to me here
